@@ -7,7 +7,7 @@ dl==0.1.0
 docutils==0.19
 h5py==3.7.0
 HTMLParser==0.0.2
-ipython==8.7.0
+ipython
 ipywidgets==8.0.3
 Jinja2==3.1.2
 jnius==1.1.0
