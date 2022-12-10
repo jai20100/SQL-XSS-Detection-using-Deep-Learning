@@ -7,3 +7,4 @@ streamlit
 tensorflow
 nltk
 matplotlib
+whois
