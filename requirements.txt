@@ -8,4 +8,4 @@ tensorflow
 nltk
 matplotlib
 whois
-protobuf>=3.4.0
+protobuf==3.20.*
